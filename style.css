@@ -1,0 +1,29 @@
+body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+.top-banner{
+	background-color: #7E73FF;
+	color: white;
+	text-align: center;
+	padding: 1px 0px;
+}
+
+.top-banner a{
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+
+.menu{
+	padding: 40px 180px;
+}
+
+.menu h1{
+	font-weight: bold;
+}
+
+.menu img{
+	width: 50px;
+}
