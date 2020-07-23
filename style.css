@@ -20,10 +20,55 @@ body{
 	padding: 40px 180px;
 }
 
+.menu a{
+	color: red;
+	background-color: white;
+	padding: 20px 35px;
+	/*margin: 10px;*/
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 3px;
+	box-shadow: 0 0 16px #D3D3D3;
+}
+
 .menu h1{
 	font-weight: bold;
 }
 
 .menu img{
 	width: 50px;
+}
+
+.main-part h2{
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+.choix-ville{
+	color: red;
+	background-color: white;
+	padding: 20px 35px;
+	/*margin: 10px;*/
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 3px;
+	box-shadow: 0 0 16px #D3D3D3;
+}
+
+.formations{
+	color: white;
+	background-color: red;
+	padding: 20px 35px;
+	/*margin: 10px;*/
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 3px;
+	box-shadow: 0 0 16px #D3D3D3;
+}
+
+.main-part b{
+	background-color: #FFE7E7;
+	color: red;
+	padding: 3px 15px 5px 15px;
+	border-radius: 3px;
 }
